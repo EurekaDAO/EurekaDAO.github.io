@@ -6,4 +6,26 @@ tags: [announcements, blog]     # TAG names should always be lowercase
 author: BoiseITGuru
 ---
 
-# Example Intro Post
+# **Welcome to Eureka DAO**
+
+I can't wait to share you with you some of the exciting projects coming over the next few months and years but before I do, allow me to introduce myself. My name is Brian Pistone and today I am announce the launch of Eureka DAO! Some of you fellow nerds may recall a show on the Sci-Fi channel called "[Eureka]("https://www.imdb.com/title/tt0796264/")", about a town full of super genius scientist set loose with unlimted funding. I've name the DAO in honor of that vision and hope we can create a community that allows developer to freely innovaite the generation technological breakthoughs.
+
+Eureka DAO's primary focus will be to create open software that allows business to regain ownership of their data, to this end we are planning a suite of small business and enterprise software products aimed at replacing various cloud services from centralized providers like AWS, Azure, Google, Datto, Kaseya, Zendesk, and others. ** please note that we do not thing there is anything fundementally bad with majority of these providers, and until decentralized on-chain alternatives have been developed we will be utilizing some of these providers. **
+
+## Initial Project Roadmap
+
+1. AuthFlow
+  * AuthFlow is an Identity & Authentication Management (IAM) system secured by the Flow Blockchain
+  1. Planned Server SDKs
+    1. Go
+    2. NodeJS
+    3. PHP
+  2. Planned Client SDKs
+    1. JS
+    2. Swift
+2. Business Citadel
+  * Business Citadel a multi-purpose multi-sig platform allowing businesses to create their Web3 presence, store business funds and information, as well as provide an identity management solutions for employees based on AuthFlow. This first version of the software will not support other Fungible or NonFungible tokens while we explore the nessissary KYC/KYB requirments. Business Citadel aims to be a one stop shop for businesses to manage their employees and eventually provide a system for businesses to interact with each other both in person and within Web3 applications.
+
+Check back soon for more information about the DAO, how to get involved, and our release timeline.
+
+- BoiseITGuru
