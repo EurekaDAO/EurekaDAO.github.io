@@ -17,12 +17,12 @@ Eureka DAO's primary focus will be to create open software that allows businesse
 1. AuthFlow
   * AuthFlow is an Identity & Authentication Management (IAM) system secured by the Flow Blockchain
 
-  Planned Server SDKs
+  * Planned Server SDKs
     1. Go
     2. NodeJS
     3. PHP
 
-  Planned Client SDKs
+  * Planned Client SDKs
     1. JS
     2. Swift
 
