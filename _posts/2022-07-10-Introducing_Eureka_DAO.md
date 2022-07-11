@@ -10,7 +10,9 @@ author: BoiseITGuru
 
 I can't wait to share with you some exciting projects coming over the next few months and years but before I do, allow me to introduce myself. My name is Brian Pistone and today I am announcing the launch of Eureka DAO! Some of you fellow nerds may recall a show on the Sci-Fi channel called "[Eureka](https://www.imdb.com/title/tt0796264/)", about a town full of super-genius scientists set loose with unlimited funding. I've named the DAO in honor of that vision and hope we can create a community that allows developers to freely innovate the generation of technological breakthroughs.
 
-Eureka DAO's primary focus will be to create open software that allows businesses to regain ownership of their data, to this end we are planning a suite of small business and enterprise software products aimed at replacing various cloud services from centralized providers like AWS, Azure, Google, Datto, Kaseya, Zendesk, and others. ** Please note that we do not think there is anything fundamentally wrong with the majority of these providers, and until decentralized on-chain alternatives have been developed we will be utilizing some of these providers. **
+Eureka DAO's primary focus will be to create open software that allows businesses to regain ownership of their data, to this end we are planning a suite of small business and enterprise software products aimed at replacing various cloud services from centralized providers like AWS, Azure, Google, Datto, Kaseya, Zendesk, and others.
+
+** Please note that we do not think there is anything fundamentally wrong with the majority of these providers, and until decentralized on-chain alternatives have been developed we will be utilizing some of these providers. **
 
 ## Initial Project Roadmap
 
