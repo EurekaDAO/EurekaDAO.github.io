@@ -17,14 +17,14 @@ Eureka DAO's primary focus will be to create open software that allows businesse
 1. AuthFlow
   * AuthFlow is an Identity & Authentication Management (IAM) system secured by the Flow Blockchain
 
-  * Planned Server SDKs
-    1. Go
-    2. NodeJS
-    3. PHP
+    * Planned Server SDKs
+      1. Go
+      2. NodeJS
+      3. PHP
 
-  * Planned Client SDKs
-    1. JS
-    2. Swift
+    * Planned Client SDKs
+      1. JS
+      2. Swift
 
 2. Business Citadel
   * Business Citadel is a multi-purpose multi-sig platform allowing businesses to create their Web3 presence, store business funds and information, as well as provide an identity management solution for employees based on AuthFlow. This first version of the software will not support other Fungible or NonFungible tokens while we explore the necessary KYC/KYB requirements. Business Citadel aims to be a one-stop-shop for businesses to manage their employees and eventually provide a system for businesses to interact with each other both in person and within Web3 applications.
