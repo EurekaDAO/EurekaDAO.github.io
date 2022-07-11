@@ -29,7 +29,9 @@ Eureka DAO's primary focus will be to create open software that allows businesse
       2. Swift
 
 2. Business Citadel
-  * Business Citadel is a multi-purpose multi-sig platform allowing businesses to create their Web3 presence, store business funds and information, as well as provide an identity management solution for employees based on AuthFlow. This first version of the software will not support other Fungible or NonFungible tokens while we explore the necessary KYC/KYB requirements. Business Citadel aims to be a one-stop-shop for businesses to manage their employees and eventually provide a system for businesses to interact with each other both in person and within Web3 applications.
+  * Business Citadel is a multi-purpose multi-sig platform allowing businesses to create their Web3 presence, store business funds and information, as well as provide an identity management solution for employees based on AuthFlow.
+
+  This first version of the software will not support other Fungible or NonFungible tokens while we explore the necessary KYC/KYB requirements. Business Citadel aims to be a one-stop-shop for businesses to manage their employees and eventually provide a system for businesses to interact with each other both in person and within Web3 applications.
 
 3. Name TBD: IT Services PSA (Professional Services Automation/Ticketing & Project System)
   * We plan to create a PSA service similiar to [Datto PSA](https://www.datto.com/products/autotask-psa/) and [Kaseya BMS](https://www.kaseya.com/products/bms/) but with out all the control of VC funds, 3 years contracts, and zero ownership of your data. More information to come soon!
